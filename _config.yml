@@ -49,7 +49,7 @@ postPatterns: 'circuitBoard'
 sns:
   weibo: '//weibo.com/u/5927551873'
   zhihu: '//www.zhihu.com/people/jeremy-30-87-60'
-
+  email: '//jeremy96@126.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
