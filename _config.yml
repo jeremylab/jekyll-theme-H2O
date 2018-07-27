@@ -13,8 +13,8 @@ nav:
   tags: '/tags.html'
 
 # Footer
-footer:
-  since: 2017
+footer: Copy
+  since: 2018
 
 # Author 配置博主信息
 author: 'Jeremy He'
@@ -49,7 +49,6 @@ postPatterns: 'circuitBoard'
 sns:
   weibo: '//weibo.com/u/5927551873'
   zhihu: '//www.zhihu.com/people/jeremy-30-87-60'
-  email: '//jeremy96@126.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
